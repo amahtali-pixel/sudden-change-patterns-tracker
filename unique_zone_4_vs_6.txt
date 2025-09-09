@@ -1,0 +1,8 @@
+Differentiation Rules for Digit 4 vs Digit 6
+==================================================
+
+1. Digit 4 has more ink in upper side (diff: 0.261)
+2. Digit 6 has more ink in lower side (diff: 0.505)
+3. Digit 6 has more ink in left side (diff: 0.278)
+
+Total differentiating zones: 3

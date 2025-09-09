@@ -1,0 +1,9 @@
+Differentiation Rules for Digit 1 vs Digit 6
+==================================================
+
+1. Digit 1 has more ink in upper side (diff: 0.061)
+2. Digit 6 has more ink in lower side (diff: 0.590)
+3. Digit 6 has more ink in left side (diff: 0.368)
+4. Digit 6 has more ink in right side (diff: 0.161)
+
+Total differentiating zones: 4

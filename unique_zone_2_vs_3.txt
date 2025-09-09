@@ -1,0 +1,9 @@
+Differentiation Rules for Digit 2 vs Digit 3
+==================================================
+
+1. Digit 3 has more ink in upper side (diff: 0.216)
+2. Digit 2 has more ink in lower side (diff: 0.255)
+3. Digit 2 has more ink in left side (diff: 0.216)
+4. Digit 3 has more ink in right side (diff: 0.178)
+
+Total differentiating zones: 4

@@ -1,0 +1,58 @@
+{
+  "class_pair": [
+    9,
+    2
+  ],
+  "rules": [
+    {
+      "feature": 2,
+      "threshold": 1.2260445932806632,
+      "overlap_score": 0.9794219586333932,
+      "description": "If feature 2 is near 1.226, be cautious of 9\u21942 confusion"
+    },
+    {
+      "feature": 3,
+      "threshold": 1.2254834646693054,
+      "overlap_score": 0.9565112219928684,
+      "description": "If feature 3 is near 1.225, be cautious of 9\u21942 confusion"
+    },
+    {
+      "feature": 6,
+      "threshold": 1.2221613113808063,
+      "overlap_score": 0.9424473803242653,
+      "description": "If feature 6 is near 1.222, be cautious of 9\u21942 confusion"
+    },
+    {
+      "feature": 5,
+      "threshold": 1.2262308675330624,
+      "overlap_score": 0.9333802790037972,
+      "description": "If feature 5 is near 1.226, be cautious of 9\u21942 confusion"
+    },
+    {
+      "feature": 1,
+      "threshold": 1.175422748683768,
+      "overlap_score": 0.9328860403301059,
+      "description": "If feature 1 is near 1.175, be cautious of 9\u21942 confusion"
+    },
+    {
+      "feature": 7,
+      "threshold": 1.1753908944565663,
+      "overlap_score": 0.9216814155201178,
+      "description": "If feature 7 is near 1.175, be cautious of 9\u21942 confusion"
+    },
+    {
+      "feature": 4,
+      "threshold": 1.259574107777981,
+      "overlap_score": 0.9133746812858022,
+      "description": "If feature 4 is near 1.260, be cautious of 9\u21942 confusion"
+    },
+    {
+      "feature": 0,
+      "threshold": 1.0947479624813423,
+      "overlap_score": 0.8420726689328162,
+      "description": "If feature 0 is near 1.095, be cautious of 9\u21942 confusion"
+    }
+  ],
+  "confidence_threshold": 0.7,
+  "generation_date": "2025-09-08T15:22:39.889829"
+}

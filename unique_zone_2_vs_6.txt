@@ -1,0 +1,9 @@
+Differentiation Rules for Digit 2 vs Digit 6
+==================================================
+
+1. Digit 2 has more ink in upper side (diff: 0.161)
+2. Digit 6 has more ink in lower side (diff: 0.117)
+3. Digit 6 has more ink in left side (diff: 0.098)
+4. Digit 2 has more ink in right side (diff: 0.142)
+
+Total differentiating zones: 4

@@ -1,0 +1,9 @@
+Differentiation Rules for Digit 5 vs Digit 7
+==================================================
+
+1. Digit 7 has more ink in upper side (diff: 0.110)
+2. Digit 5 has more ink in lower side (diff: 0.237)
+3. Digit 5 has more ink in left side (diff: 0.308)
+4. Digit 7 has more ink in right side (diff: 0.181)
+
+Total differentiating zones: 4

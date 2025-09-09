@@ -1,0 +1,9 @@
+{
+  "total_incorrect_patterns": 1363501,
+  "analyzed_pairs": [
+    {
+      "classes": [
+        7,
+        2
+      ],
+      "misclassification_count": 

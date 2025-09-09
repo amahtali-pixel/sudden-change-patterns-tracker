@@ -1,0 +1,8 @@
+Differentiation Rules for Digit 0 vs Digit 9
+==================================================
+
+1. Digit 0 has more ink in lower side (diff: 0.524)
+2. Digit 0 has more ink in left side (diff: 0.361)
+3. Digit 0 has more ink in right side (diff: 0.146)
+
+Total differentiating zones: 3

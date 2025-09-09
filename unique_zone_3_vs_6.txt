@@ -1,0 +1,9 @@
+Differentiation Rules for Digit 3 vs Digit 6
+==================================================
+
+1. Digit 3 has more ink in upper side (diff: 0.378)
+2. Digit 6 has more ink in lower side (diff: 0.372)
+3. Digit 6 has more ink in left side (diff: 0.314)
+4. Digit 3 has more ink in right side (diff: 0.320)
+
+Total differentiating zones: 4

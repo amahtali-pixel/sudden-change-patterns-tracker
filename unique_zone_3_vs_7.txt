@@ -1,0 +1,8 @@
+Differentiation Rules for Digit 3 vs Digit 7
+==================================================
+
+1. Digit 3 has more ink in lower side (diff: 0.350)
+2. Digit 3 has more ink in left side (diff: 0.107)
+3. Digit 3 has more ink in right side (diff: 0.215)
+
+Total differentiating zones: 3

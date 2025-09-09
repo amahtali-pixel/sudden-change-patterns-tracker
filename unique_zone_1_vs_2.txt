@@ -1,0 +1,9 @@
+Differentiation Rules for Digit 1 vs Digit 2
+==================================================
+
+1. Digit 2 has more ink in upper side (diff: 0.100)
+2. Digit 2 has more ink in lower side (diff: 0.473)
+3. Digit 2 has more ink in left side (diff: 0.270)
+4. Digit 2 has more ink in right side (diff: 0.304)
+
+Total differentiating zones: 4

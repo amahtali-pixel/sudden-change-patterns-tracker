@@ -1,0 +1,8 @@
+Differentiation Rules for Digit 8 vs Digit 9
+==================================================
+
+1. Digit 8 has more ink in lower side (diff: 0.339)
+2. Digit 8 has more ink in left side (diff: 0.348)
+3. Digit 9 has more ink in right side (diff: 0.054)
+
+Total differentiating zones: 3

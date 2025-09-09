@@ -1,0 +1,8 @@
+Differentiation Rules for Digit 3 vs Digit 4
+==================================================
+
+1. Digit 3 has more ink in upper side (diff: 0.117)
+2. Digit 3 has more ink in lower side (diff: 0.133)
+3. Digit 3 has more ink in right side (diff: 0.286)
+
+Total differentiating zones: 3

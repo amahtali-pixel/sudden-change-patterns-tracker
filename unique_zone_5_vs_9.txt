@@ -1,0 +1,9 @@
+Differentiation Rules for Digit 5 vs Digit 9
+==================================================
+
+1. Digit 9 has more ink in upper side (diff: 0.219)
+2. Digit 5 has more ink in lower side (diff: 0.177)
+3. Digit 5 has more ink in left side (diff: 0.173)
+4. Digit 9 has more ink in right side (diff: 0.216)
+
+Total differentiating zones: 4
