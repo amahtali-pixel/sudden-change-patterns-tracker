@@ -1,2 +1,5 @@
 "# RESEARCH LICENSE - ALL RIGHTS RESERVED" 
 "Copyright (c) 2024 Dr. Mahtali. Tous droits reserves." 
+"Performance: 86.9% accuracy MNIST - Rotary Pattern Extraction" 
+"Contact: [Your Email] - [Your Institution]" 
+"All rights reserved. No commercial use without permission." 
