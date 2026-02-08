@@ -1,8 +1,0 @@
-Differentiation Rules for Digit 3 vs Digit 9
-==================================================
-
-1. Digit 9 has more ink in upper side (diff: 0.137)
-2. Digit 3 has more ink in lower side (diff: 0.290)
-3. Digit 3 has more ink in right side (diff: 0.181)
-
-Total differentiating zones: 3
