@@ -1,9 +1,0 @@
-Differentiation Rules for Digit 6 vs Digit 7
-==================================================
-
-1. Digit 7 has more ink in upper side (diff: 0.406)
-2. Digit 6 has more ink in lower side (diff: 0.722)
-3. Digit 6 has more ink in left side (diff: 0.421)
-4. Digit 7 has more ink in right side (diff: 0.105)
-
-Total differentiating zones: 4
