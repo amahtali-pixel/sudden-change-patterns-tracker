@@ -1,8 +1,0 @@
-Differentiation Rules for Digit 2 vs Digit 9
-==================================================
-
-1. Digit 9 has more ink in upper side (diff: 0.354)
-2. Digit 2 has more ink in lower side (diff: 0.545)
-3. Digit 2 has more ink in left side (diff: 0.188)
-
-Total differentiating zones: 3
