@@ -1,9 +1,0 @@
-Differentiation Rules for Digit 3 vs Digit 5
-==================================================
-
-1. Digit 3 has more ink in upper side (diff: 0.082)
-2. Digit 3 has more ink in lower side (diff: 0.113)
-3. Digit 5 has more ink in left side (diff: 0.201)
-4. Digit 3 has more ink in right side (diff: 0.396)
-
-Total differentiating zones: 4
