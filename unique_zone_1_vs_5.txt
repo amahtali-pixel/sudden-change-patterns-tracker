@@ -1,9 +1,0 @@
-Differentiation Rules for Digit 1 vs Digit 5
-==================================================
-
-1. Digit 5 has more ink in upper side (diff: 0.235)
-2. Digit 5 has more ink in lower side (diff: 0.105)
-3. Digit 5 has more ink in left side (diff: 0.255)
-4. Digit 5 has more ink in right side (diff: 0.085)
-
-Total differentiating zones: 4
