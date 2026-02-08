@@ -1,9 +1,0 @@
-Differentiation Rules for Digit 4 vs Digit 8
-==================================================
-
-1. Digit 8 has more ink in upper side (diff: 0.209)
-2. Digit 8 has more ink in lower side (diff: 0.183)
-3. Digit 8 has more ink in left side (diff: 0.340)
-4. Digit 8 has more ink in right side (diff: 0.051)
-
-Total differentiating zones: 4
