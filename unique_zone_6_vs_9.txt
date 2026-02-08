@@ -1,9 +1,0 @@
-Differentiation Rules for Digit 6 vs Digit 9
-==================================================
-
-1. Digit 9 has more ink in upper side (diff: 0.515)
-2. Digit 6 has more ink in lower side (diff: 0.662)
-3. Digit 6 has more ink in left side (diff: 0.286)
-4. Digit 9 has more ink in right side (diff: 0.139)
-
-Total differentiating zones: 4
