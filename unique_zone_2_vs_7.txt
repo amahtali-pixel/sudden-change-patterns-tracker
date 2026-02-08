@@ -1,8 +1,0 @@
-Differentiation Rules for Digit 2 vs Digit 7
-==================================================
-
-1. Digit 7 has more ink in upper side (diff: 0.245)
-2. Digit 2 has more ink in lower side (diff: 0.605)
-3. Digit 2 has more ink in left side (diff: 0.323)
-
-Total differentiating zones: 3
