@@ -1,7 +1,0 @@
-Differentiation Rules for Digit 4 vs Digit 5
-==================================================
-
-1. Digit 5 has more ink in left side (diff: 0.165)
-2. Digit 4 has more ink in right side (diff: 0.110)
-
-Total differentiating zones: 2
