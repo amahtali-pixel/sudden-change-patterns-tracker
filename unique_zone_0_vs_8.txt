@@ -1,7 +1,0 @@
-Differentiation Rules for Digit 0 vs Digit 8
-==================================================
-
-1. Digit 0 has more ink in lower side (diff: 0.185)
-2. Digit 0 has more ink in right side (diff: 0.200)
-
-Total differentiating zones: 2
