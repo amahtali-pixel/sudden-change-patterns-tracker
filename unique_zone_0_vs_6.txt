@@ -1,9 +1,0 @@
-Differentiation Rules for Digit 0 vs Digit 6
-==================================================
-
-1. Digit 0 has more ink in upper side (diff: 0.498)
-2. Digit 6 has more ink in lower side (diff: 0.138)
-3. Digit 0 has more ink in left side (diff: 0.076)
-4. Digit 0 has more ink in right side (diff: 0.285)
-
-Total differentiating zones: 4
