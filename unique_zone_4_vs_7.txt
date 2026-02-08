@@ -1,9 +1,0 @@
-Differentiation Rules for Digit 4 vs Digit 7
-==================================================
-
-1. Digit 7 has more ink in upper side (diff: 0.145)
-2. Digit 4 has more ink in lower side (diff: 0.217)
-3. Digit 4 has more ink in left side (diff: 0.143)
-4. Digit 7 has more ink in right side (diff: 0.071)
-
-Total differentiating zones: 4
