@@ -1,9 +1,0 @@
-Differentiation Rules for Digit 2 vs Digit 4
-==================================================
-
-1. Digit 4 has more ink in upper side (diff: 0.100)
-2. Digit 2 has more ink in lower side (diff: 0.388)
-3. Digit 2 has more ink in left side (diff: 0.180)
-4. Digit 2 has more ink in right side (diff: 0.109)
-
-Total differentiating zones: 4
