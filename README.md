@@ -79,8 +79,38 @@ Comprehensive exploration across three orders of magnitude:
 - **94.3% cases resolved in Stage 1**, only 5.7% require arbitration
 
 ## 🚀 Getting Started
+## 🔧 Generating Reference Pattern Files
 
+### Complete Generation Pipeline (All Stages)
+
+```bash
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. Generate Stage 1: Double Rotary Patterns (clustered_012_X.pkl)
+python radial_extraction_pipeline.py
+# Time: ~30 minutes
+# Output: clustered_012_0.pkl through clustered_012_9.pkl
+
+# 3. Generate Stage 2: Simple Rotary Patterns
+# Step 3a: Extract raw patterns (binary_X_train_with_zones.pkl)
+python binary_patterns.py
+# Time: ~60 minutes
+# Output: binary_0_train_with_zones.pkl through binary_9_train_with_zones.pkl
+
+# Step 3b: Filter cross-class patterns
+python unique_binary.py
+# Time: ~30 minutes
+# Output: unique_patterns_digit_X_vs_Y_with_zones.pkl files
+
+# 4. Stage 3: Pixel Density Statistics (already included)
+# File: data/pixel_density_statistics.json
+
+# 5. Run the classifier
+python mnist_radial_classifier.py
+# Uses all 3 stages for 99.5% accuracy
 ### Installation
 ```bash
 git clone https://github.com/amahtali-pixel/radial-encoding-framework
 cd radial-encoding-framework
+
