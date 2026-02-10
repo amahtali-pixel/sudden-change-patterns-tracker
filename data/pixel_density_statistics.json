@@ -1,0 +1,86 @@
+{
+  "avg_pixels_per_class": {
+    "0": 191.7706794147472,
+    "1": 85.89932715500825,
+    "2": 168.84606580829757,
+    "3": 163.4517574569388,
+    "4": 141.91808323563893,
+    "5": 152.6561064470141,
+    "6": 157.73123909249563,
+    "7": 131.39887563416974,
+    "8": 173.6435164835165,
+    "9": 143.3420523138833
+  },
+  "density_profiles": {
+    "0": {
+      "avg_pixels": 191.7706794147472,
+      "total_samples": 6903,
+      "min_pixels": 90,
+      "max_pixels": 351,
+      "std_pixels": 33.678417976376245
+    },
+    "1": {
+      "avg_pixels": 85.89932715500825,
+      "total_samples": 7877,
+      "min_pixels": 34,
+      "max_pixels": 210,
+      "std_pixels": 20.085412281604185
+    },
+    "2": {
+      "avg_pixels": 168.84606580829757,
+      "total_samples": 6990,
+      "min_pixels": 72,
+      "max_pixels": 314,
+      "std_pixels": 32.91386505918803
+    },
+    "3": {
+      "avg_pixels": 163.4517574569388,
+      "total_samples": 7141,
+      "min_pixels": 59,
+      "max_pixels": 297,
+      "std_pixels": 33.74005142172034
+    },
+    "4": {
+      "avg_pixels": 141.91808323563893,
+      "total_samples": 6824,
+      "min_pixels": 65,
+      "max_pixels": 257,
+      "std_pixels": 27.782422755142775
+    },
+    "5": {
+      "avg_pixels": 152.6561064470141,
+      "total_samples": 6313,
+      "min_pixels": 63,
+      "max_pixels": 289,
+      "std_pixels": 33.454476960285554
+    },
+    "6": {
+      "avg_pixels": 157.73123909249563,
+      "total_samples": 6876,
+      "min_pixels": 61,
+      "max_pixels": 301,
+      "std_pixels": 32.6452037307252
+    },
+    "7": {
+      "avg_pixels": 131.39887563416974,
+      "total_samples": 7293,
+      "min_pixels": 60,
+      "max_pixels": 249,
+      "std_pixels": 26.92546163267693
+    },
+    "8": {
+      "avg_pixels": 173.6435164835165,
+      "total_samples": 6825,
+      "min_pixels": 84,
+      "max_pixels": 327,
+      "std_pixels": 32.84410435016834
+    },
+    "9": {
+      "avg_pixels": 143.3420523138833,
+      "total_samples": 6958,
+      "min_pixels": 68,
+      "max_pixels": 282,
+      "std_pixels": 28.31171679312667
+    }
+  }
+}
