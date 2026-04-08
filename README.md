@@ -130,3 +130,80 @@ Comprehensive exploration across three orders of magnitude:
 ### Prerequisites
 ```bash
 pip install -r requirements.txt
+
+
+### Generating Reference Pattern Files (Complete Pipeline)
+
+#### Stage 1: Local Radial Encoding (LRE) Pattern Generation
+
+Generate double rotary patterns with clustering tolerance `τ_c = 0.10`:
+
+```bash
+python Radial_extraction_pipeline_0.1.py
+What this does:
+
+Extracts 8-directional sum patterns from training images
+
+Clusters similar patterns using τ_c = 0.10
+
+Outputs 10 files: clustered_012_0.pkl through clustered_012_9.pkl
+
+Time: ~30 minutes
+
+Stage 2: Extended Radial Encoding (ERE) Pattern Generation
+Step 2a: Extract simple rotary patterns (24-position spiral)
+
+bash
+python binary_patterns.py
+Step 2b: Generate cross-class discriminative patterns
+
+bash
+python unique_binary.py
+Stage 3: Pixel Density Statistics (Already Provided)
+The file pixel_density_statistics.json is already included in the repository.
+
+Running the Classifiers
+Three-Stage Model (99.89% accuracy):
+
+bash
+python Mnist_Radial_Classifier_0.1.py
+One-Stage Weighted Log Model (97.52% accuracy):
+
+bash
+python Weighted_classifier_0.10.py
+Installation
+bash
+git clone https://github.com/amahtali-pixel/radial-encoding-framework
+cd radial-encoding-framework
+📈 Performance Summary
+Model	Accuracy	Errors
+Three-Stage (Primary)	99.89%	11
+One-Stage Log-Weighted	97.52%	248
+Error Distribution
+Digit	Errors
+1	6
+5	1
+6	2
+7	1
+8	1
+Total	11
+Confidence Calibration
+Correct predictions: Mean confidence = 0.0133
+
+Wrong predictions: Mean confidence = 0.0005 (27× lower)
+
+📁 Repository Structure
+text
+radial-encoding-framework/
+├── Mnist_Radial_Classifier_0.1.py
+├── Radial_extraction_pipeline_0.1.py
+├── Weighted_classifier_0.10.py
+├── binary_patterns.py
+├── unique_binary.py
+├── pixel_density_statistics.json
+├── requirements.txt
+├── LICENSE
+└── README.md
+⭐ Star this repository if you find it useful!
+text
+
